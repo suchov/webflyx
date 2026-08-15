@@ -1,0 +1,5 @@
+# Ignore the entire secure folder and everything inside it
+secure/
+# Ignore the specific file anywhere in the project
+guilty_pleasures.md
+
